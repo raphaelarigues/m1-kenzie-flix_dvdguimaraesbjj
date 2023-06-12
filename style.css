@@ -1,0 +1,15 @@
+body{
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #000000;
+}
+
+h1, button{
+    color: #ffffff;
+}
+ul{
+    color: #808080;
+}
+
+button{
+    background-color: #000000;
+}
