@@ -13,3 +13,14 @@ ul{
 button{
     background-color: #000000;
 }
+
+.box{
+    height: 1000px;
+    width: 1000px;
+}
+
+.cards{
+    list-style: none;
+    width: 0.2em;
+    border-radius: 1000px;
+}
